@@ -1,2 +1,2 @@
-# eussWebsiite
-The EUSS Official Static Website
+# EUSS-Website
+The Edinburgh Univesity Salsa Society Official Static Website
